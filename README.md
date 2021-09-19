@@ -2,7 +2,8 @@
 
 An implementaiton of Gaussian Mixture Model using numpy (without scikit).
 
-![img1](https://github.com/abbasi-ali/GMM-Moon-Data/blob/main/images/img1.png) 
+![img1](https://github.com/abbasi-ali/GMM-Moon-Data/blob/main/images/img1.png) <br>
+
 ![img2](https://github.com/abbasi-ali/GMM-Moon-Data/blob/main/images/img2.png) 
 ![img3](https://github.com/abbasi-ali/GMM-Moon-Data/blob/main/images/img3.png) 
 ![img4](https://github.com/abbasi-ali/GMM-Moon-Data/blob/main/images/img4.png) 
